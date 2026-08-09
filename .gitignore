@@ -1,0 +1,11 @@
+build/
+output/
+*.csv
+*.o
+*.a
+*.so
+.env
+config/secrets.json
+CLAUDE.local.md
+!tests/fixtures/*.csv
+!samples/*.csv
